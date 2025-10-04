@@ -1,0 +1,13 @@
+///////////////////
+/   Project 1     /
+/ Matthew Wilson  /
+/ mlw0420@unt.edu /
+/    11369458	  /
+/  CSCE 3550.001  /
+/     3-3-22      /
+///////////////////
+
+**To use makefile: executable is named secureblp
+1. make *invokes makefile to create secureblp and .o files*
+2. ./secureblp *to run program*
+3. make clean *to clean out .o and secureblp file*
